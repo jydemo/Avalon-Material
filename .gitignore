@@ -1,0 +1,7 @@
+.*
+/.idea/*
+/static/.*
+Thumbs.db
+.DS_Store
+.DS_Store?
+!.gitignore
